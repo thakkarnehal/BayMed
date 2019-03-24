@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "883774121738",
+    "firebase_url": "https://baymed2-a6679.firebaseio.com",
+    "project_id": "baymed2-a6679",
+    "storage_bucket": "baymed2-a6679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883774121738:android:3202120721bdb699",
+        "android_client_info": {
+          "package_name": "com.example.techtogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883774121738-hk81cddrlffr1indbipml3mnf7vocff4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37KLGXCrFXV9Je4_YeC_Q5dVhZ5I_pKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
